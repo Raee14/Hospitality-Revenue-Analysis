@@ -14,3 +14,5 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Delhi ranks highest in both occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
 - AtliQ incurred losses of approximately 298 million due to cancellations.
 - Elite-type rooms have the highest booking rate but also experience a higher cancellation rate.
+
+### Guided By : [CoadBasics](https://youtu.be/tT4V7zguCnc?si=Of5AkfjiRCR8tk4E)
