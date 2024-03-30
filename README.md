@@ -6,6 +6,13 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
+## Data Modeling
+![Screenshot 2024-03-30 175857](https://github.com/Raee14/Hospitality-Revenue-Analysis/assets/135542056/25f11a1b-cba0-469d-8af4-e6ae316b03a0)
+
+## Dashboard View
+![Screenshot 2024-03-30 175815](https://github.com/Raee14/Hospitality-Revenue-Analysis/assets/135542056/c15fd2a9-bac3-4704-adbb-63c25b3e8ca7)
+
+
 # Key Insights from the Dashboard:
 - Mumbai leads in revenue generation at 669 million, followed by Bangalore, Hyderabad, and Delhi.
 - AtliQ Exotica outperforms all seven property types, with 320 million in revenue, a rating of 3.62, a 57% occupancy rate, and a 24.4% cancellation rate.
